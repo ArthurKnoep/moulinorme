@@ -1,0 +1,29 @@
+{
+  "name": "moulinorme",
+  "version": "1.0.0",
+  "description": "A moulinorme for Epitech (2017 version)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurKnoep/moulinorme.git"
+  },
+  "keywords": [
+    "epitech",
+    "norme",
+    "moulinorme",
+    "2017"
+  ],
+  "author": "Arthur Knoepflin <arthur.knoepflin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurKnoep/moulinorme/issues"
+  },
+  "homepage": "https://github.com/ArthurKnoep/moulinorme#readme",
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "couleurs": "^6.0.9"
+  }
+}
